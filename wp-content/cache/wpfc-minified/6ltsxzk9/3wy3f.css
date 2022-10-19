@@ -1,0 +1,226 @@
+.wd-popup.wd-promo-popup{
+background-color:rgb(255,255,255);
+background-image: url(https://lonora.hrslab.com/wp-content/uploads/2021/09/glasses-popup.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center center;
+}
+.header-banner{
+background-color:rgb(150,191,221);
+}
+.page-title-default{
+background-color:rgb(170,208,235);
+background-image: url(https://lonora.hrslab.com/wp-content/uploads/2021/09/glasses-page-title.jpg);
+background-size:cover;
+background-position:center center;
+}
+.footer-container{
+background-color:#ffffff;
+}
+:root{
+--wd-text-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:#777777;
+--wd-text-font-size:14px;
+}
+:root{
+--wd-title-font:"Montserrat", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:600;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:600;
+--wd-entities-title-color:#333333;
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:"Lato", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:600;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:#333;
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:"hkgroteskpro", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:500;
+--wd-header-el-transform:uppercase;
+--wd-header-el-font-size:13px;
+}
+:root{
+--wd-primary-color:rgb(170,208,235);
+}
+:root{
+--wd-alternative-color:#fbbc34;
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+:root{
+--btn-default-bgcolor:#f7f7f7;
+}
+:root{
+--btn-default-bgcolor-hover:#efefef;
+}
+:root{
+--btn-shop-bgcolor:rgb(170,208,235);
+}
+:root{
+--btn-shop-bgcolor-hover:rgb(155,190,214);
+}
+:root{
+--btn-accent-bgcolor:rgb(170,208,235);
+}
+:root{
+--btn-accent-bgcolor-hover:rgb(155,190,214);
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+:root{
+--wd-form-brd-radius: 0px;
+--wd-form-brd-width: 1px;
+--btn-default-color: #333;
+--btn-default-color-hover: #333;
+--btn-shop-color: #fff;
+--btn-shop-color-hover: #fff;
+--btn-accent-color: #fff;
+--btn-accent-color-hover: #fff;
+--btn-default-brd-radius: 0px;
+--btn-default-box-shadow: none;
+--btn-default-box-shadow-hover: none;
+--btn-default-box-shadow-active: none;
+--btn-default-bottom: 0px;
+--btn-shop-brd-radius: 0.001px;
+--btn-shop-box-shadow: none;
+--btn-shop-box-shadow-hover: none;
+--btn-shop-box-shadow-active: none;
+--btn-shop-bottom: 0px;
+--btn-accent-brd-radius: 0px;
+--btn-accent-box-shadow: none;
+--btn-accent-box-shadow-hover: none;
+--btn-accent-box-shadow-active: none;
+--btn-accent-bottom: 0px;
+}  @media (min-width: 1025px) {
+.whb-boxed:not(.whb-sticked):not(.whb-full-width) .whb-main-header {
+max-width: 1192px;
+}
+}
+.container {
+max-width: 1222px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-no {
+max-width: 1192px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-narrow {
+max-width: 1202px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-default {
+max-width: 1212px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-extended {
+max-width: 1222px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-wide {
+max-width: 1232px;
+}
+.elementor-section.wd-section-stretch > .elementor-column-gap-wider {
+max-width: 1252px;
+}
+@media (min-width: 1239px) {
+.platform-Windows .wd-section-stretch > .elementor-container {
+margin-left: auto;
+margin-right: auto;
+}
+}
+@media (min-width: 1222px) {
+html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+margin-left: auto;
+margin-right: auto;
+}
+} div.wd-popup.popup-quick-view {
+max-width: 1200px;
+} div.wd-popup.wd-promo-popup {
+max-width: 800px;
+} div.wd-popup.wd-age-verify {
+max-width: 500px;
+} .header-banner {
+height: 35px;
+}
+body.header-banner-display .website-wrapper {
+margin-top:35px;
+} @media (max-width: 1024px) { .header-banner {
+height: 70px;
+}
+body.header-banner-display .website-wrapper {
+margin-top:70px;
+}
+}
+.woodmart-woocommerce-layered-nav .wd-scroll-content {
+max-height: 223px;
+}
+@font-face {
+font-weight: normal;
+font-style: normal;
+font-family: "woodmart-font";
+src: url(//lonora.hrslab.com/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.2.3) format("woff2");
+}
+@font-face {
+font-family: "hkgroteskpro";
+src: url(//lonora.hrslab.com/wp-content/uploads/2021/09/hkgroteskpro-regular.woff2) format("woff2"), 
+url(//lonora.hrslab.com/wp-content/uploads/2021/09/hkgroteskpro-regular.woff) format("woff");
+font-weight: 400;
+font-style: normal;
+}
+@font-face {
+font-family: "hkgroteskpro";
+src: url(//lonora.hrslab.com/wp-content/uploads/2021/09/hkgroteskpro-semibold.woff2) format("woff2"), 
+url(//lonora.hrslab.com/wp-content/uploads/2021/09/hkgroteskpro-semibold.woff) format("woff");
+font-weight: 600;
+font-style: normal;
+}
+@font-face {
+font-family: "hkgroteskpro";
+font-weight: 700;
+font-style: normal;
+}
+@font-face {
+font-family: "hkgroteskpro";
+font-weight: 500;
+font-style: normal;
+} #allinementoIcone {
+display: flex;
+flex-wrap: wrap;
+} circle {
+fill: #9bbed6!important;
+} .woocommerce-message
+{background-color: #9bbed6;
+font-size:14px;
+font-weight:600;
+} .main-page-wrapper {
+padding-top: 0px;   
+} .woocommerce-checkout .woocommerce [role="alert"] {
+font-size: 15px;
+}
+ul.woocommerce-error, ul.woocommerce-message, ul.woocommerce-info {    
+width: 100%;
+} .product_meta {
+visibility: }
+.product-share {
+visibility: hidden; }
+#page-id-43131 {
+font-family: hkgroteskpro !important;
+}
